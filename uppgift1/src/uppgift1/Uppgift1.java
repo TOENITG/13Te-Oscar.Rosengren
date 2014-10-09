@@ -20,6 +20,7 @@ public class Uppgift1 {
         // TODO code application logic here
         String Name = JOptionPane.showInputDialog("Skriv ditt namn", "Namn");
         String IdNumber = JOptionPane.showInputDialog("Skriv ditt personnumer", "xxxxxx-xxxx");
+        String Adress = JOptionPane.showInputDialog("Skriv din adress", "Exempelvägen Nr");
     }
     
 }
