@@ -29,3 +29,11 @@ public class Uppgift1 {
     }
     
 }
+
+/*
+Tack!
+
+Snyggt och bra kommenterat!
+
+*/
+
