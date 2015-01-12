@@ -25,11 +25,12 @@ public class Quiz {
                 score++;
                  System.out.println("correct");
             }else{
-                System.out.println("false");
+                System.out.println("false, correct answer: " + answers[i]);
             }  //tells the player if the answerd correct or false.
         }
        System.out.println("score: " + score);
        //prints out the score that the player have got.
+       
     }
     
 }
